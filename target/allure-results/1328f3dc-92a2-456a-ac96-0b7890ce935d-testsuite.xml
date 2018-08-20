@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1534751504293" stop="1534751582791" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Login</name>
+    <description type="text"></description>
+    <test-cases>
+        <test-case start="1534751504649" stop="1534751582773" status="passed">
+            <name>Customer can login</name>
+            <title>Customer can login</title>
+            <description type="text"></description>
+            <steps>
+                <step start="1534751504669" stop="1534751541219" status="passed">
+                    <name>Given I open the website</name>
+                    <title>Given I open the website</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751541220" stop="1534751542540" status="passed">
+                    <name>When I click burger menu</name>
+                    <title>When I click burger menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751542732" stop="1534751543515" status="passed">
+                    <name>When I click My Account menu</name>
+                    <title>When I click My Account menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751543728" stop="1534751546660" status="passed">
+                    <name>When I click Login menu</name>
+                    <title>When I click Login menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751546876" stop="1534751547994" status="passed">
+                    <name>Then I can see Login page</name>
+                    <title>Then I can see Login page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751548211" stop="1534751548955" status="passed">
+                    <name>When I input email "user@phptravels.com"</name>
+                    <title>When I input email "user@phptravels.com"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751549147" stop="1534751549845" status="passed">
+                    <name>And I input password "demouser"</name>
+                    <title>And I input password "demouser"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751550037" stop="1534751550746" status="passed">
+                    <name>And I click Submit button</name>
+                    <title>And I click Submit button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1534751550961" stop="1534751581346" status="passed">
+                    <name>Then I can see Account page contains "Johny Smith"</name>
+                    <title>Then I can see Account page contains "Johny Smith"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="Customer can login"/>
+                <label name="feature" value="Login"/>
+                <label name="host" value="INBGQT-LT-0295"/>
+                <label name="thread" value="4268@INBGQT-LT-0295.main(1)"/>
+                <label name="framework" value="CucumberJVM"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="feature" value="Login"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
