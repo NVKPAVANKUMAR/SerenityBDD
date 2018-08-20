@@ -23,12 +23,12 @@ public class LoginPage extends PageObject {
         btnLogin.shouldBeEnabled();
     }
 
-    public void inputEmail(String arg0) {
-        username.type(arg0);
+    public void inputEmail(String usn) {
+        username.type(usn);
     }
 
-    public void inputPassword(String arg0) {
-        password.type(arg0);
+    public void inputPassword(String pass) {
+        password.type(pass);
     }
 
     public void clickBtnSubmit() {

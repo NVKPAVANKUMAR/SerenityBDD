@@ -12,13 +12,13 @@ public class LoginStep {
     }
 
     @Step
-    public void inputEmail(String arg0) {
-        loginPage.inputEmail(arg0);
+    public void inputEmail(String usn) {
+        loginPage.inputEmail(usn);
     }
 
     @Step
-    public void inputPassword(String arg0) {
-        loginPage.inputPassword(arg0);
+    public void inputPassword(String pass) {
+        loginPage.inputPassword(pass);
     }
 
     @Step

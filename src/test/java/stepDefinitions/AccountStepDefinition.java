@@ -9,7 +9,7 @@ public class AccountStepDefinition {
     AccountStep accountStep;
 
     @Then("^I can see Account page contains \"([^\"]*)\"$")
-    public void iCanSeeAccountPageContains(String arg0){
+    public void iCanSeeAccountPageContains(String arg0) {
         accountStep.verifyLoggedIn(arg0);
     }
 }

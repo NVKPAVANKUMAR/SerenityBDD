@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -178,7 +178,7 @@
     <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-util:0.26.4" level="project" />
     <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-youtrack-converter:0.26.4" level="project" />
     <orderEntry type="library" name="Maven: net.serenity-bdd:serenity-junit:1.5.7" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.8.0-beta2" level="project" />
     <orderEntry type="library" name="Maven: net.serenity-bdd:serenity-cucumber:1.5.4" level="project" />
     <orderEntry type="library" name="Maven: net.serenity-bdd:serenity-screenplay:1.5.2" level="project" />
     <orderEntry type="library" name="Maven: net.serenity-bdd:serenity-screenplay-webdriver:1.5.2" level="project" />

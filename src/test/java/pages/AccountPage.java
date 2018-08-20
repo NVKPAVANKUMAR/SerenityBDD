@@ -8,7 +8,8 @@ public class AccountPage extends PageObject {
     @FindBy(css = ".RTL")
     private WebElementFacade greetings;
 
-    public void verifyLoggedIn(String arg0){
+    public void verifyLoggedIn(String arg0) {
+        greetings.waitUntilVisible();
         greetings.shouldContainText(arg0);
     }
 }

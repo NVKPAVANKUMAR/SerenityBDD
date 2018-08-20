@@ -2,187 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d50d01da-e0ac-4acf-9649-8473a2dd8da5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_jimfs_jimfs_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_lambdaj_lambdaj_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_58_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_core_0_0_1_RC9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_jsoup_dom_converter_0_0_1_RC9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_pdfbox_0_0_1_RC9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_rtl_support_0_0_1_RC9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opera_operadriver_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opera_operalaunchers_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_all_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_abbreviation_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_anchorlink_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_aside_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_autolink_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_definition_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_emoji_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_escaped_character_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_footnotes_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_issues_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_strikethrough_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_tables_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_tasklist_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_users_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_ins_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_jekyll_front_matter_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_jekyll_tag_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_superscript_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_tables_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_toc_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_typographic_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_wikilink_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_xwiki_macros_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_yaml_front_matter_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_formatter_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_html_parser_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_jira_converter_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_pdf_converter_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_profile_pegdown_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_youtrack_converter_0_26_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__es_nitaur_markdown_txtmark_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_5_0_0_BETA9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_0_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_match_0_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_javax_el_api_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_core_1_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_cucumber_1_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_cucumber_archetype_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_junit_1_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_junit_archetype_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_report_resources_1_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_screenplay_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_serenity_bdd_serenity_screenplay_webdriver_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asciidoctor_asciidoctor_java_integration_0_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_awaitility_awaitility_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fluentlenium_fluentlenium_core_0_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_javax_el_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ini4j_ini4j_0_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jruby_complete_1_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_jaxb2_commons_jaxb2_basics_runtime_0_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_nibor_autolink_autolink_0_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_5_v20170502.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_qatools_commons_properties_2_0_RC5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_cucumber_jvm_adaptor_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_java_adaptor_api_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_java_annotations_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_java_aspects_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_model_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_8_0_beta2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sample-serenity-allure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample-serenity-allure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/AccountStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/AccountStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HomeStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HomeStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/HomeStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/HomeStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/LoginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LoginStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1328f3dc-92a2-456a-ac96-0b7890ce935d-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/32ec9124-0069-4c3d-898d-a47c33a967d4-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/5cfe638e-4a72-4501-bc5e-8bb9a97aba8e-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7cf2a0e4-7325-4883-9894-bd2032018cb5-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ff30c507-546f-440d-9968-1a8b3ee6e599-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/00da27c15d79d976fd4946a4e4d4fb4cb9f0544e68f5c47787fae8976e37bb67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0ce3d80eaf01fe94ae8472edb56553727e35e91c19dcc5da87c4560e11e308f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1044c441ac03203f7a20ebe407bed4a1162fc24377bdb419619625bc97f179c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1301b8dc8b0b36689ada35566184aaddbb614cd59a02859a2a558446c2e90129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/221ba322f9f3c72631b1146fc5d003ca92c4a43bebb59a447ffc01a84375584a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/22d393f165c9c31cae8d0ef055f48b67482dfb086d1630de488909b3f5ad15b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/23540317ea1caad6670c8ba367ad0166c07e13ef69efd4564436049f80255f0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/25c95a98112dd6d587d1650099db24fedd6ab1ef8f438e71af82f81d1e8e9ff3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2a5fe587cd94cad041ec40b2048297a038a48feaa4c52fe2fa9b544f47938104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/32d0307f31c66b9063bb6642e9492d498ddc287c817d375dab567e43909b7085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/39ab0186f62239cf304778282d113608386aa4ac2fa7f933278fe7e257921c07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4627572ccec85360c0f071b120de51d92dd285892716b4dcbf3abdd3ebe3abcc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/46a588bb50a68507d0165ab2179a806f5b560957aa12179fe8e95b29fac66f37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4c3a3a0f6058022a97f1b1e77dddfcdb096a85592a1f5c116afaa30425ea3e45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5432c095dc1a1df3c4d1adba5673d3d42d201b9fb3d3983d842e0cb2855190b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/578323ec7aa9749327dc74ca90cbcaf088d0a406b3c4ee6820aa9c7a9b085d81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/857b7e2b22b28e78b63232dd0449ae5faa8667ac41908c978ef1a91edb34640d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8bb0939b50f161c75207404951ea55b30fb68aa107048611a2e51eea52143e45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8f0d457063347d7e7c2ec260571a43502c98e7715ea19c93547813bd08562ffa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/920122947e1bef55b247e542d83d46b19fe4133a5e3cdf416c87e5c45c54b30d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9678150e57a25289400d34f07fd730c5c96be0b460d1cad6388af44a0e7946cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-74d5c33276550ca7b8ab57e34d526a13b29b7fc8d3cd5ca3c36c7ecbd2193372.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a21479ce92b3f690f1795dcc494624ce18caf52579f6120e92ff997af9bded0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ad17deff9d2839288e09333fdd61edacee577079dd1a1329edd7db7eb7dc942d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/afa756b6d3da1e36e2dc164e0e718901b89ce9b1bbcc7d278c992f978bef1927.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bb846a97b941194e8551ad2bae9c6f1797d6b368545fe8cef7cd89f8377d5828.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/be19425fdd6ba8546911ef33e5bcdcfb1b9fac858d8135c2a80e7fc44bc5d4a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/be4c08ff731b7553db553268b979a65beeb425e217bb944bee4188410d269d30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bed71732e138b9ed64c4cdc2806b8f3cfc76227719c3738450f59fa3ce1a5c8b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bff2de2d24c3e39a43b82c3d138213a44e56a4ae17a0009431ced4beddeb73c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c16c2406912c80d28f68f2b8560adec127d05ea14931bed80533f4aeb561a907.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c462ec1b78fa3882c63d51ec88e71abfc204fc5deb8a170741b92f49eb858199.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ce686d8a10ba8af4924f7d318bd09bdf8da722ed716bd388b52a1534fe8cd841.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cea94f3043ab8a4aaed14aa107676a73619d67f1c4378ac542997542ae32fbfa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d36d135cc0cb408bc7531071c01b9a46ad0444206c567b25349746b432c8e3c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d3d74ddaaab6e01feb53cf8e7ba4e9242ede39a6c39c9704ce832568930c1119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d75c928c11ec0eb1641710fa104d97c5fd78b6d6bf40ff7dc33b8da228113c04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f431bf286733c7cdc663d0ba63b0ba62d82017285b5c5340e2a1ac8c2b787ac6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd7f4819ffd969daa8ac5c74f0eba2721e82f1b43f368397a3a1c5af2098e545.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fe1523d5e00d384e61634dc3ec279679fd4084121901c860023ecc5511911514.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource7286257069377401962.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_00da27c15d79d976fd4946a4e4d4fb4cb9f0544e68f5c47787fae8976e37bb67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_0ce3d80eaf01fe94ae8472edb56553727e35e91c19dcc5da87c4560e11e308f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_1044c441ac03203f7a20ebe407bed4a1162fc24377bdb419619625bc97f179c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_1301b8dc8b0b36689ada35566184aaddbb614cd59a02859a2a558446c2e90129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_221ba322f9f3c72631b1146fc5d003ca92c4a43bebb59a447ffc01a84375584a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_22d393f165c9c31cae8d0ef055f48b67482dfb086d1630de488909b3f5ad15b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_23540317ea1caad6670c8ba367ad0166c07e13ef69efd4564436049f80255f0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_25c95a98112dd6d587d1650099db24fedd6ab1ef8f438e71af82f81d1e8e9ff3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_2a5fe587cd94cad041ec40b2048297a038a48feaa4c52fe2fa9b544f47938104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_32d0307f31c66b9063bb6642e9492d498ddc287c817d375dab567e43909b7085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_39ab0186f62239cf304778282d113608386aa4ac2fa7f933278fe7e257921c07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_4627572ccec85360c0f071b120de51d92dd285892716b4dcbf3abdd3ebe3abcc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_46a588bb50a68507d0165ab2179a806f5b560957aa12179fe8e95b29fac66f37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_4c3a3a0f6058022a97f1b1e77dddfcdb096a85592a1f5c116afaa30425ea3e45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_5432c095dc1a1df3c4d1adba5673d3d42d201b9fb3d3983d842e0cb2855190b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_578323ec7aa9749327dc74ca90cbcaf088d0a406b3c4ee6820aa9c7a9b085d81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_857b7e2b22b28e78b63232dd0449ae5faa8667ac41908c978ef1a91edb34640d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_8bb0939b50f161c75207404951ea55b30fb68aa107048611a2e51eea52143e45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_8f0d457063347d7e7c2ec260571a43502c98e7715ea19c93547813bd08562ffa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_920122947e1bef55b247e542d83d46b19fe4133a5e3cdf416c87e5c45c54b30d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_9678150e57a25289400d34f07fd730c5c96be0b460d1cad6388af44a0e7946cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_a21479ce92b3f690f1795dcc494624ce18caf52579f6120e92ff997af9bded0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_ad17deff9d2839288e09333fdd61edacee577079dd1a1329edd7db7eb7dc942d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_afa756b6d3da1e36e2dc164e0e718901b89ce9b1bbcc7d278c992f978bef1927.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_bb846a97b941194e8551ad2bae9c6f1797d6b368545fe8cef7cd89f8377d5828.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_be19425fdd6ba8546911ef33e5bcdcfb1b9fac858d8135c2a80e7fc44bc5d4a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_be4c08ff731b7553db553268b979a65beeb425e217bb944bee4188410d269d30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_bed71732e138b9ed64c4cdc2806b8f3cfc76227719c3738450f59fa3ce1a5c8b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_bff2de2d24c3e39a43b82c3d138213a44e56a4ae17a0009431ced4beddeb73c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_c16c2406912c80d28f68f2b8560adec127d05ea14931bed80533f4aeb561a907.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_c462ec1b78fa3882c63d51ec88e71abfc204fc5deb8a170741b92f49eb858199.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_ce686d8a10ba8af4924f7d318bd09bdf8da722ed716bd388b52a1534fe8cd841.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_cea94f3043ab8a4aaed14aa107676a73619d67f1c4378ac542997542ae32fbfa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_d36d135cc0cb408bc7531071c01b9a46ad0444206c567b25349746b432c8e3c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_d3d74ddaaab6e01feb53cf8e7ba4e9242ede39a6c39c9704ce832568930c1119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_d75c928c11ec0eb1641710fa104d97c5fd78b6d6bf40ff7dc33b8da228113c04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_f431bf286733c7cdc663d0ba63b0ba62d82017285b5c5340e2a1ac8c2b787ac6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_fd7f4819ffd969daa8ac5c74f0eba2721e82f1b43f368397a3a1c5af2098e545.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_fe1523d5e00d384e61634dc3ec279679fd4084121901c860023ecc5511911514.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/AccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AccountStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AccountStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HomeStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HomeStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/LoginStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/LoginStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/AccountStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/AccountStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/HomeStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/HomeStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/LoginStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/LoginStep.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,20 +134,120 @@
       <file leaf-file-name="TestRunner1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="12">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginStep.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/LoginStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="AccountStepDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountStepDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="207" selection-start-line="207" selection-end-line="207" />
+            <state relative-caret-position="100">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginStepDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountStep.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/AccountStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding>
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#962#963#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeStep.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/HomeStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -218,21 +255,18 @@
       <file leaf-file-name="HomeStepDefinition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomeStepDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="-140">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeStep.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/HomeStep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -248,6 +282,12 @@
         <option value="$PROJECT_DIR$/src/test/java/steps/HomeStep.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestRunner1.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/HomeStepDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/LoginStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/AccountPage.java" />
       </list>
     </option>
   </component>
@@ -324,6 +364,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="steps" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sample-serenity-allure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sample-serenity-allure" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-serenity-allure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sample-serenity-allure" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -366,11 +417,11 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestRunner1" />
-      <option name="METHOD_NAME" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
@@ -435,34 +486,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 47m 32s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 48m 11s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 49m 15s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 51m 15s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 52m 59s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 54m 49s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 57m 08s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 12h 59m 15s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner1 - 2018.08.20 at 13h 23m 03s.xml">
-      <configuration name="TestRunner1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestRunner1 - 2018.08.20 at 13h 33m 57s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 15h 32m 40s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 15h 35m 12s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 15h 51m 53s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 16h 20m 02s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 16h 44m 15s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 16h 45m 56s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 16h 48m 18s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 16h 50m 48s.xml">
+      <configuration name="TestRunner1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner1 - 2018.08.20 at 16h 51m 45s.xml">
       <configuration name="TestRunner1" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -471,20 +522,21 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" weight="0.8330709" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8897638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8629921" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32913387" />
+      <window_info anchor="bottom" id="Terminal" weight="0.9401575" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21815519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Maven-2 Build" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -492,7 +544,6 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -519,76 +570,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountStepDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/LoginStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/allure-results/ff30c507-546f-440d-9968-1a8b3ee6e599-testsuite.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/features/Login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-355">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomeStepDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/1.5.7/serenity-core-1.5.7.jar!/net/serenitybdd/core/pages/PageObject.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -598,13 +581,6 @@
             <element signature="e#23232#23233#0" expanded="true" />
             <element signature="e#23297#23298#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/HomeStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -626,20 +602,137 @@
     <entry file="file://$PROJECT_DIR$/target/site/serenity/0ce3d80eaf01fe94ae8472edb56553727e35e91c19dcc5da87c4560e11e308f4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="4125">
+          <caret line="165" column="30" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/LoginStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="207" selection-start-line="207" selection-end-line="207" />
+        <state relative-caret-position="369">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/LoginStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomeStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/AccountStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/HomeStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>

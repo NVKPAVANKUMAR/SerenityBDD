@@ -1,7 +1,6 @@
 package steps;
 
 import net.thucydides.core.annotations.Step;
-import org.openqa.selenium.Dimension;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import pages.HomePage;
@@ -10,7 +9,7 @@ public class HomeStep {
     HomePage homePage;
 
     @Step
-    public void openTheWebsite(){
+    public void openTheWebsite() {
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--window-size=300,700");
         chromeOptions.addArguments("--incognito");
