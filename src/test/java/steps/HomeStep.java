@@ -14,6 +14,7 @@ public class HomeStep {
         chromeOptions.addArguments("--window-size=300,700");
         chromeOptions.addArguments("--incognito");
         chromeOptions.addArguments("--user-agent=Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36");
+        chromeOptions.addArguments("headless");
         ChromeDriver chromeDriver = new ChromeDriver(chromeOptions);
         homePage.setDriver(chromeDriver);
         homePage.getDriver().manage().deleteAllCookies();

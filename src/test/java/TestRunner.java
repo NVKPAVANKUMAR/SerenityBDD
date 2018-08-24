@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/features/Login.feature",
         glue = {"stepDefinitions"})
-public class TestRunner1 {
+public class TestRunner {
    /* private JUnit4TestRunner jUnit4TestRunner;
 
     @Test(description = "Runs Cucumber Feature")

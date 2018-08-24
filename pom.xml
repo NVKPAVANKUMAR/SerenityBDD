@@ -94,7 +94,7 @@
                 <version>2.20</version>
                 <configuration>
                     <includes>
-                        <include>**/TestRunner1.java</include>
+                        <include>**/TestRunner.java</include>
                     </includes>
                     <systemProperties>
                         <webdriver.driver>${webdriver.driver}</webdriver.driver>
@@ -126,56 +126,49 @@
                     <stopPort>1234</stopPort>
                 </configuration>
             </plugin>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-enforcer-plugin</artifactId>
-                <version>${enforcer.version}</version>
-                <executions>
-                    <execution>
-                        <id>enforce</id>
-                        <configuration>
-                            <rules>
-                                <requireUpperBoundDeps/>
-                                <requireJavaVersion>
-                                    <version>${java.version}</version>
-                                </requireJavaVersion>
-                            </rules>
-                        </configuration>
-                        <goals>
-                            <goal>enforce</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-            <plugin>
-                <artifactId>maven-failsafe-plugin</artifactId>
-                <version>2.18</version>
+                <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <includes>
-                        <include>**/features/**/When*.java</include>
-                    </includes>
-                    <systemProperties>
-                        <webdriver.driver>${webdriver.driver}</webdriver.driver>
-                    </systemProperties>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+            <!-- Below plug-in is used to execute tests -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.18.1</version>
+                <configuration>
+                    <suiteXmlFiles>
+                        <!-- TestNG suite XML files -->
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                    </suiteXmlFiles>
                 </configuration>
             </plugin>
             <plugin>
-                <groupId>net.serenity-bdd.maven.plugins</groupId>
-                <artifactId>serenity-maven-plugin</artifactId>
-                <version>${serenity.maven.version}</version>
-                <dependencies>
-                    <dependency>
-                        <groupId>net.serenity-bdd</groupId>
-                        <artifactId>serenity-core</artifactId>
-                        <version>${serenity.maven.version}</version>
-                    </dependency>
-                </dependencies>
+                <groupId>com.github.webdriverextensions</groupId>
+                <artifactId>webdriverextensions-maven-plugin</artifactId>
+                <version>2.0.0</version>
+                <configuration>
+                    <drivers>
+                        <driver>
+                            <name>chromedriver</name>
+                            <platform>windows</platform>
+                            <bit>32</bit>
+                            <version>2.22</version>
+                        </driver>
+                    </drivers>
+                    <installationDirectory>${project.basedir}/target/tmp_webdrivers</installationDirectory>
+                    <keepDownloadedWebdrivers>true</keepDownloadedWebdrivers>
+                </configuration>
                 <executions>
                     <execution>
-                        <id>serenity-reports</id>
-                        <phase>post-integration-test</phase>
+                        <id>webdriver download</id>
+                        <phase>generate-resources</phase>
                         <goals>
-                            <goal>aggregate</goal>
+                            <goal>install-drivers</goal>
                         </goals>
                     </execution>
                 </executions>
